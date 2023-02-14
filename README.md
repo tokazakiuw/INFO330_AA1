@@ -1,1 +1,15 @@
-# INFO330_AA1
+# Airbnb Market Data and Housing Price Projections
+This repository contains an SQL database of Airbnb market data and housing price projections. The database contains information on Airbnb listings in various cities as well as projected housing prices for those cities.
+
+## Authors
+This project was developed by [Ty Okazaki](https://github.com/tokazakiuw) and Collaborator Name.
+
+## Data Sources
+The Airbnb market data was obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html), which provides publicly available data scraped from Airbnb's website. The housing price projections were obtained from [Zillow](https://www.zillow.com/research/data/), a real estate website that provides housing market data and analytics.
+
+## Database Schema
+
+## Usage
+
+## License
+This repository is licensed under the MIT license. Please see the LICENSE file for more information.
