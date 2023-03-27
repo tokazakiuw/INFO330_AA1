@@ -1,4 +1,4 @@
-# Airbnb Market Data and Housing Price Projections
+# Seattle Apartment Market and Housing Database
 This repository contains an SQL database of Airbnb market data and housing price projections. The database contains information on Airbnb listings in various cities as well as projected housing prices for those cities.
 
 ## Authors
