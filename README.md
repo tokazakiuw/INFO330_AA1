@@ -16,10 +16,6 @@ This project was developed by Ty Okazaki, Irene Hu, Joseph Tran, and Rebecca Jes
 
 # Code
 ```
--- Group Members: Irene Hu, Joseph Tran, Rebecca Jessup, Ty Okazaki
--- Section: INFO 330AA
--- Database Name: tokazaki_db
-
 -- Create Schema
 -- Drop Tables
 DROP TABLE Lease;
