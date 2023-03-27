@@ -5,7 +5,7 @@ In this project, we intend to work in the apartment rental industry in Seattle t
 This project was developed by Ty Okazaki, Irene Hu, Joseph Tran, and Rebecca Jessup
 
 ## ER Diagram Draft
-[embed]https://github.com/tokazakiuw/INFO330_AA1/blob/main/memos/ER%20Diagram%20Draft.pdf[/embed]
+![alt text](https://github.com/[tokazakiuw]/[INFO330_AA1]/blob/[main/img]/ERD%20Draft.png?raw=true)
 
 ## ER Diagram Revision
 
