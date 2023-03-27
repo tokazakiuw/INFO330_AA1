@@ -8,6 +8,7 @@ This project was developed by Ty Okazaki, Irene Hu, Joseph Tran, and Rebecca Jes
 ![alt text](https://github.com/tokazakiuw/INFO330_AA1/blob/main/img/ERD%20Draft.png)
 
 ## ER Diagram Revision
+![alt text](https://github.com/tokazakiuw/INFO330_AA1/blob/main/img/ERD%20Revised.png)
 
 ## License
 This repository is licensed under the MIT license. Please see the LICENSE file for more information.
