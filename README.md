@@ -4,8 +4,10 @@ In this project, we intend to work in the apartment rental industry in Seattle t
 ## Authors
 This project was developed by Ty Okazaki, Irene Hu, Joseph Tran, and Rebecca Jessup
 
-## Data Sources
-The housing price projections were obtained from [Zillow](https://www.zillow.com/research/data/), a real estate website that provides housing market data and analytics.
+## ER Diagram Draft
+[embed]https://github.com/tokazakiuw/INFO330_AA1/blob/main/memos/ER%20Diagram%20Draft.pdf[/embed]
+
+## ER Diagram Revision
 
 ## License
 This repository is licensed under the MIT license. Please see the LICENSE file for more information.
